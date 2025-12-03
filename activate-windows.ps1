@@ -1,1 +1,1 @@
-irm https://get.activated.win | iex
+https://get.activated.win

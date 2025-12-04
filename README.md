@@ -1,2 +1,16 @@
-# Execute bash : curl -s \<raw-url\> | bash
-# Execute ps1 : irm \<raw-url\> | iex
+# ⚡ Instant Installation Commands
+
+### **For Linux (Bash)**
+```bash
+curl -s <raw-url> | bash
+```
+
+### **Bash Alias (.bashrc)**
+```
+alias <name>='<command>'
+```
+
+### **For Windows (PowerShell)**
+```
+irm <raw-url> | iex
+```
